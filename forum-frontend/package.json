@@ -1,0 +1,36 @@
+{
+  "name": "my-project-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@mojs/core": "^1.7.1",
+    "@vueup/vue-quill": "^1.2.0",
+    "@vueuse/core": "^10.3.0",
+    "algoliasearch": "^5.0.0",
+    "axios": "^1.4.0",
+    "element-plus": "^2.3.9",
+    "instantsearch.css": "^8.4.0",
+    "instantsearch.js": "^4.73.4",
+    "pinia": "^2.1.7",
+    "quill-delta-to-html": "^0.12.1",
+    "quill-image-resize-vue": "^1.0.4",
+    "quill-image-super-solution-module": "^2.0.1",
+    "sass": "^1.77.8",
+    "vue": "^3.3.4",
+    "vue-instantsearch": "^4.19.2",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "less": "^4.2.0",
+    "unplugin-auto-import": "^0.15.2",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.4.6"
+  }
+}

@@ -1,0 +1,12 @@
+server:
+  port: 9999
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:13306/forum
+    username: root
+    password: mysql
+  logging:
+    level:
+      com.example: debug
+
